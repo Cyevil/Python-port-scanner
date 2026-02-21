@@ -30,7 +30,7 @@ A production-ready, concurrent TCP port scanner written in pure Python. No third
 
 ```bash
 # Clone or download the script
-git clone https://github.com/yourname/portscanner.git
+git clone https://github.com/cyevil/portscanner.git
 cd portscanner
 
 # Make it executable (Linux / macOS)
